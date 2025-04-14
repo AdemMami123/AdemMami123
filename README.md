@@ -15,6 +15,7 @@
 - 👯 Open to collaborations on **exciting open source/web projects**
 - 💬 Ask me about anything related to **frontend & backend development**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adem-mami-13ra/)
+- 🌐 Check out my **[Portfolio Website](https://portfolio-1rtj1z8ap-ademmami123s-projects.vercel.app/)** for more!
 - 🛠️ Building cool things with **JavaScript, Angular, React, Node.js, MongoDB**, and more!
 
 ---
@@ -42,7 +43,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemMami123&hide=Jupyter%20Notebook&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
 ---
 
