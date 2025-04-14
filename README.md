@@ -39,7 +39,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdemMami123&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemMami123&theme=radical&layout=compact&hide=css" alt="top-langs" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemMami123&hide=Jupyter%20Notebook&layout=compact)
+
 </p>
 
 ---
